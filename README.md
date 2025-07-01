@@ -1,4 +1,4 @@
-# lllm-test
+# Geração de Casos de Teste para Caminhos de Execução Específicos em um Módulo Pequeno
 
 **Projeto da disciplina Tópicos Avançados em Engenharia de Software (TAES)**  
 **Centro de Informática – Universidade Federal de Pernambuco (UFPE)**
