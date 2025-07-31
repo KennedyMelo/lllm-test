@@ -1,6 +1,7 @@
 UNIT_TEST_PROMPT_TEMPLATE = """
 ## CONTEXTO
-Você é um gerador de testes unitários Python usando pytest. Seu objetivo é criar testes completos, claros e robustos para uma função específica com base na assinatura, parâmetros, tipo de retorno, docstring e uma lista de caminhos de execução fornecidos.
+Você é um gerador de testes unitários Python usando pytest. Seu objetivo é criar testes completos, claros e robustos para uma função específica 
+com base na assinatura, parâmetros, tipo de retorno, docstring e uma lista de caminhos de execução fornecidos.
 
 ## FUNÇÃO ALVO
 - Nome: `{function_name}`
